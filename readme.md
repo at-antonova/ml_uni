@@ -8,9 +8,9 @@
 
 - Linear_classifier.ipynb -- реализация простой линейной классификации
 - FCN.ipynb -- реализация полносвязной нейросети
-- CNN.ipynb -- реализация сверточной нейросети, отображение accuracy и loss с помощью Tensorboard
-- Resnet.ipynb -- реализация остаточной нейросети ResNet
-- Segmentation.ipynb -- сегментация изображения на базе UNet на датасете с фотографиями документов, необходимо отделить документ от фона
+- CNN.ipynb -- реализация сверточной нейросети, отображение accuracy и loss с помощью Tensorboard. [Colab](https://colab.research.google.com/drive/1YR9Hfi9GiBHou0OHZqCyZRc_ciB1F2ig?usp=sharing)
+- Resnet.ipynb -- реализация остаточной нейросети ResNet. [Colab](https://colab.research.google.com/drive/1ET912Q4JQLKC_Rc50HUmz8cDNWjwFzB3?usp=sharing)
+- Segmentation.ipynb -- сегментация изображения на базе UNet на датасете с фотографиями документов, необходимо отделить документ от фона [Colab].(https://colab.research.google.com/drive/1UBvSD4WTwQz87Ix5jtac4WevgHwMASwJ?usp=sharing)
 - Tracking.ipynb -- YOLOv5 + SORT для реализации трекинга людей на видео
 
 ### ml_course - задания с курса "Математические методы анализа данных"
